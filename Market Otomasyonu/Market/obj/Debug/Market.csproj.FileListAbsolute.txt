@@ -1,0 +1,1115 @@
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Market.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Market.exe
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Market.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\obj\Debug\Market.csproj.AssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\obj\Debug\Market.AnaMenu.resources
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\obj\Debug\Market.Properties.Resources.resources
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\obj\Debug\Market.csproj.GenerateResource.cache
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\obj\Debug\Market.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\obj\Debug\Market.exe
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\obj\Debug\Market.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\obj\Debug\Market.Giris.resources
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\obj\Debug\Market.GunSonu.resources
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\obj\Debug\Market.KasiyerIslemleri.resources
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\obj\Debug\Market.Prim.resources
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\obj\Debug\Market.Satis.resources
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\obj\Debug\Market.UrunIslemleri.resources
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\MaterialSkin.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\obj\Debug\Market.csproj.CopyComplete
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\obj\Debug\Market.Sifre.resources
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\EntityFramework.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Google.Protobuf.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\MySql.Data.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\MySqlConnector.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\System.Buffers.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\System.IO.Pipelines.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\System.Memory.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\ZstdSharp.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\EntityFramework.xml
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Google.Protobuf.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Google.Protobuf.xml
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\MySql.Data.xml
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\MySqlConnector.xml
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\System.Buffers.xml
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\System.IO.Pipelines.xml
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\System.Memory.xml
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\AForge.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\AForge.xml
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\AForge.Video.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\AForge.Video.xml
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\zxing.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\zxing.presentation.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\zxing.xml
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\zxing.presentation.xml
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\ColorTranslations.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Enums.NET.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Epoch.net.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\jose-jwt.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\StandardSocketsHttpHandler.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\System.IO.Abstractions.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\System.Text.Json.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\System.ValueTuple.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\TestableIO.System.IO.Abstractions.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\TestableIO.System.IO.Abstractions.Wrappers.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Vonage.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Yoh.Text.Json.NamingPolicies.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Enums.NET.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Enums.NET.xml
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Epoch.net.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Epoch.net.xml
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\System.IO.Abstractions.xml
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\System.Text.Json.xml
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\System.ValueTuple.xml
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\TestableIO.System.IO.Abstractions.xml
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\TestableIO.System.IO.Abstractions.Wrappers.xml
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Vonage.xml
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\Interop.WMPLib.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\obj\Debug\Interop.WMPLib.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\obj\Debug\Market.csproj.ResolveComReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\obj\Debug\Market.Video.resources
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\obj\Debug\Market.Iade.resources
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\obj\Debug\Market.SatOrIade.resources
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\obj\Debug\Market.ardinuoIade.resources
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\obj\Debug\Market.SatOrIadeGunSonu.resources
+C:\Users\hasan\OneDrive\Masaüstü\Market\Market\obj\Debug\Market.SifreYenile.resources
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Market.exe.config
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Market.exe
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Market.pdb
+C:\Users\ş\Desktop\Market\Market\bin\Debug\AForge.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\AForge.Video.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\ColorTranslations.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\EntityFramework.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Enums.NET.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Epoch.net.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Google.Protobuf.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\jose-jwt.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\MaterialSkin.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\StandardSocketsHttpHandler.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\System.Buffers.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\System.IO.Abstractions.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\System.Memory.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\System.Text.Json.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\System.ValueTuple.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\TestableIO.System.IO.Abstractions.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\TestableIO.System.IO.Abstractions.Wrappers.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Vonage.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Yoh.Text.Json.NamingPolicies.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\ZstdSharp.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\zxing.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\zxing.presentation.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\AForge.xml
+C:\Users\ş\Desktop\Market\Market\bin\Debug\AForge.Video.xml
+C:\Users\ş\Desktop\Market\Market\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\ş\Desktop\Market\Market\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\ş\Desktop\Market\Market\bin\Debug\EntityFramework.xml
+C:\Users\ş\Desktop\Market\Market\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Enums.NET.pdb
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Enums.NET.xml
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Epoch.net.pdb
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Epoch.net.xml
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Google.Protobuf.pdb
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Google.Protobuf.xml
+C:\Users\ş\Desktop\Market\Market\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ş\Desktop\Market\Market\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ş\Desktop\Market\Market\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ş\Desktop\Market\Market\bin\Debug\System.Buffers.xml
+C:\Users\ş\Desktop\Market\Market\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ş\Desktop\Market\Market\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\ş\Desktop\Market\Market\bin\Debug\System.IO.Abstractions.xml
+C:\Users\ş\Desktop\Market\Market\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ş\Desktop\Market\Market\bin\Debug\System.Memory.xml
+C:\Users\ş\Desktop\Market\Market\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ş\Desktop\Market\Market\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ş\Desktop\Market\Market\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\ş\Desktop\Market\Market\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ş\Desktop\Market\Market\bin\Debug\System.Text.Json.xml
+C:\Users\ş\Desktop\Market\Market\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ş\Desktop\Market\Market\bin\Debug\System.ValueTuple.xml
+C:\Users\ş\Desktop\Market\Market\bin\Debug\TestableIO.System.IO.Abstractions.xml
+C:\Users\ş\Desktop\Market\Market\bin\Debug\TestableIO.System.IO.Abstractions.Wrappers.xml
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Vonage.xml
+C:\Users\ş\Desktop\Market\Market\bin\Debug\zxing.xml
+C:\Users\ş\Desktop\Market\Market\bin\Debug\zxing.presentation.xml
+C:\Users\ş\Desktop\Market\Market\bin\Debug\Interop.WMPLib.dll
+C:\Users\ş\Desktop\Market\Market\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ş\Desktop\Market\Market\obj\Debug\Market.csproj.AssemblyReference.cache
+C:\Users\ş\Desktop\Market\Market\obj\Debug\Interop.WMPLib.dll
+C:\Users\ş\Desktop\Market\Market\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ş\Desktop\Market\Market\obj\Debug\Market.csproj.ResolveComReference.cache
+C:\Users\ş\Desktop\Market\Market\obj\Debug\Market.AnaMenu.resources
+C:\Users\ş\Desktop\Market\Market\obj\Debug\Market.ardinuoIade.resources
+C:\Users\ş\Desktop\Market\Market\obj\Debug\Market.Iade.resources
+C:\Users\ş\Desktop\Market\Market\obj\Debug\Market.SatOrIade.resources
+C:\Users\ş\Desktop\Market\Market\obj\Debug\Market.Giris.resources
+C:\Users\ş\Desktop\Market\Market\obj\Debug\Market.GunSonu.resources
+C:\Users\ş\Desktop\Market\Market\obj\Debug\Market.KasiyerIslemleri.resources
+C:\Users\ş\Desktop\Market\Market\obj\Debug\Market.Prim.resources
+C:\Users\ş\Desktop\Market\Market\obj\Debug\Market.Properties.Resources.resources
+C:\Users\ş\Desktop\Market\Market\obj\Debug\Market.Satis.resources
+C:\Users\ş\Desktop\Market\Market\obj\Debug\Market.SatOrIadeGunSonu.resources
+C:\Users\ş\Desktop\Market\Market\obj\Debug\Market.Sifre.resources
+C:\Users\ş\Desktop\Market\Market\obj\Debug\Market.UrunIslemleri.resources
+C:\Users\ş\Desktop\Market\Market\obj\Debug\Market.Video.resources
+C:\Users\ş\Desktop\Market\Market\obj\Debug\Market.csproj.GenerateResource.cache
+C:\Users\ş\Desktop\Market\Market\obj\Debug\Market.csproj.CoreCompileInputs.cache
+C:\Users\ş\Desktop\Market\Market\obj\Debug\Market.csproj.Up2Date
+C:\Users\ş\Desktop\Market\Market\obj\Debug\Market.exe
+C:\Users\ş\Desktop\Market\Market\obj\Debug\Market.pdb
+C:\Users\ş\Desktop\Market\Market\obj\Debug\Market.GunSonuIade.resources
+C:\Users\ş\Desktop\Market\Market\obj\Debug\Market.Deneme.resources
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Market.exe.config
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Market.exe
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Market.pdb
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\AForge.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\AForge.Video.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\ColorTranslations.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\EntityFramework.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Enums.NET.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Epoch.net.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Google.Protobuf.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\jose-jwt.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\MaterialSkin.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\StandardSocketsHttpHandler.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\System.Buffers.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\System.IO.Abstractions.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\System.IO.Pipelines.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\System.Memory.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\System.Text.Json.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\System.ValueTuple.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\TestableIO.System.IO.Abstractions.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\TestableIO.System.IO.Abstractions.Wrappers.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Vonage.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Yoh.Text.Json.NamingPolicies.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\ZstdSharp.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\zxing.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\zxing.presentation.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\AForge.xml
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\AForge.Video.xml
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\EntityFramework.xml
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Enums.NET.pdb
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Enums.NET.xml
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Epoch.net.pdb
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Epoch.net.xml
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Google.Protobuf.pdb
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Google.Protobuf.xml
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\System.Buffers.xml
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\System.IO.Abstractions.xml
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\System.IO.Pipelines.xml
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\System.Memory.xml
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\System.Text.Json.xml
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\System.ValueTuple.xml
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\TestableIO.System.IO.Abstractions.xml
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\TestableIO.System.IO.Abstractions.Wrappers.xml
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Vonage.xml
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\zxing.xml
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\zxing.presentation.xml
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\Interop.WMPLib.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\obj\Debug\Market.csproj.AssemblyReference.cache
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\obj\Debug\Interop.WMPLib.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\obj\Debug\Market.csproj.ResolveComReference.cache
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\obj\Debug\Market.AnaMenu.resources
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\obj\Debug\Market.ardinuoIade.resources
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\obj\Debug\Market.Deneme.resources
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\obj\Debug\Market.GunSonuIade.resources
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\obj\Debug\Market.Iade.resources
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\obj\Debug\Market.SatOrIade.resources
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\obj\Debug\Market.Giris.resources
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\obj\Debug\Market.GunSonu.resources
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\obj\Debug\Market.KasiyerIslemleri.resources
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\obj\Debug\Market.Prim.resources
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\obj\Debug\Market.Properties.Resources.resources
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\obj\Debug\Market.Satis.resources
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\obj\Debug\Market.SatOrIadeGunSonu.resources
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\obj\Debug\Market.Sifre.resources
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\obj\Debug\Market.UrunIslemleri.resources
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\obj\Debug\Market.Video.resources
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\obj\Debug\Market.csproj.GenerateResource.cache
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\obj\Debug\Market.csproj.CoreCompileInputs.cache
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\obj\Debug\Market.csproj.Up2Date
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\obj\Debug\Market.exe
+C:\Users\sedat\OneDrive\Masaüstü\Goo\Market\obj\Debug\Market.pdb
+E:\sonHal\Market\bin\Debug\Market.exe.config
+E:\sonHal\Market\bin\Debug\Market.exe
+E:\sonHal\Market\bin\Debug\Market.pdb
+E:\sonHal\Market\bin\Debug\AForge.dll
+E:\sonHal\Market\bin\Debug\AForge.Video.DirectShow.dll
+E:\sonHal\Market\bin\Debug\AForge.Video.dll
+E:\sonHal\Market\bin\Debug\BouncyCastle.Cryptography.dll
+E:\sonHal\Market\bin\Debug\ColorTranslations.dll
+E:\sonHal\Market\bin\Debug\EntityFramework.dll
+E:\sonHal\Market\bin\Debug\EntityFramework.SqlServer.dll
+E:\sonHal\Market\bin\Debug\Enums.NET.dll
+E:\sonHal\Market\bin\Debug\Epoch.net.dll
+E:\sonHal\Market\bin\Debug\Google.Protobuf.dll
+E:\sonHal\Market\bin\Debug\jose-jwt.dll
+E:\sonHal\Market\bin\Debug\K4os.Compression.LZ4.dll
+E:\sonHal\Market\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\sonHal\Market\bin\Debug\K4os.Hash.xxHash.dll
+E:\sonHal\Market\bin\Debug\MaterialSkin.dll
+E:\sonHal\Market\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\sonHal\Market\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\sonHal\Market\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\sonHal\Market\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\sonHal\Market\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\sonHal\Market\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+E:\sonHal\Market\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\sonHal\Market\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\sonHal\Market\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\sonHal\Market\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+E:\sonHal\Market\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\sonHal\Market\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\sonHal\Market\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\sonHal\Market\bin\Debug\Microsoft.Extensions.Options.dll
+E:\sonHal\Market\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\sonHal\Market\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+E:\sonHal\Market\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\sonHal\Market\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\sonHal\Market\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\sonHal\Market\bin\Debug\Newtonsoft.Json.dll
+E:\sonHal\Market\bin\Debug\StandardSocketsHttpHandler.dll
+E:\sonHal\Market\bin\Debug\System.Buffers.dll
+E:\sonHal\Market\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\sonHal\Market\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\sonHal\Market\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\sonHal\Market\bin\Debug\System.IO.Abstractions.dll
+E:\sonHal\Market\bin\Debug\System.IO.Pipelines.dll
+E:\sonHal\Market\bin\Debug\System.Memory.dll
+E:\sonHal\Market\bin\Debug\System.Numerics.Vectors.dll
+E:\sonHal\Market\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\sonHal\Market\bin\Debug\System.Security.Cryptography.Cng.dll
+E:\sonHal\Market\bin\Debug\System.Text.Encodings.Web.dll
+E:\sonHal\Market\bin\Debug\System.Text.Json.dll
+E:\sonHal\Market\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\sonHal\Market\bin\Debug\System.ValueTuple.dll
+E:\sonHal\Market\bin\Debug\TestableIO.System.IO.Abstractions.dll
+E:\sonHal\Market\bin\Debug\TestableIO.System.IO.Abstractions.Wrappers.dll
+E:\sonHal\Market\bin\Debug\Vonage.dll
+E:\sonHal\Market\bin\Debug\Yoh.Text.Json.NamingPolicies.dll
+E:\sonHal\Market\bin\Debug\ZstdSharp.dll
+E:\sonHal\Market\bin\Debug\zxing.dll
+E:\sonHal\Market\bin\Debug\zxing.presentation.dll
+E:\sonHal\Market\bin\Debug\AForge.xml
+E:\sonHal\Market\bin\Debug\AForge.Video.xml
+E:\sonHal\Market\bin\Debug\AForge.Video.DirectShow.xml
+E:\sonHal\Market\bin\Debug\BouncyCastle.Cryptography.xml
+E:\sonHal\Market\bin\Debug\EntityFramework.xml
+E:\sonHal\Market\bin\Debug\EntityFramework.SqlServer.xml
+E:\sonHal\Market\bin\Debug\Enums.NET.pdb
+E:\sonHal\Market\bin\Debug\Enums.NET.xml
+E:\sonHal\Market\bin\Debug\Epoch.net.pdb
+E:\sonHal\Market\bin\Debug\Epoch.net.xml
+E:\sonHal\Market\bin\Debug\Google.Protobuf.pdb
+E:\sonHal\Market\bin\Debug\Google.Protobuf.xml
+E:\sonHal\Market\bin\Debug\K4os.Compression.LZ4.xml
+E:\sonHal\Market\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\sonHal\Market\bin\Debug\K4os.Hash.xxHash.xml
+E:\sonHal\Market\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\sonHal\Market\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\sonHal\Market\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\sonHal\Market\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\sonHal\Market\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+E:\sonHal\Market\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+E:\sonHal\Market\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\sonHal\Market\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\sonHal\Market\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\sonHal\Market\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+E:\sonHal\Market\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+E:\sonHal\Market\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\sonHal\Market\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\sonHal\Market\bin\Debug\Microsoft.Extensions.Options.xml
+E:\sonHal\Market\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\sonHal\Market\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+E:\sonHal\Market\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\sonHal\Market\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\sonHal\Market\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\sonHal\Market\bin\Debug\Newtonsoft.Json.xml
+E:\sonHal\Market\bin\Debug\System.Buffers.xml
+E:\sonHal\Market\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\sonHal\Market\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\sonHal\Market\bin\Debug\System.IO.Abstractions.xml
+E:\sonHal\Market\bin\Debug\System.IO.Pipelines.xml
+E:\sonHal\Market\bin\Debug\System.Memory.xml
+E:\sonHal\Market\bin\Debug\System.Numerics.Vectors.xml
+E:\sonHal\Market\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\sonHal\Market\bin\Debug\System.Security.Cryptography.Cng.xml
+E:\sonHal\Market\bin\Debug\System.Text.Encodings.Web.xml
+E:\sonHal\Market\bin\Debug\System.Text.Json.xml
+E:\sonHal\Market\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\sonHal\Market\bin\Debug\System.ValueTuple.xml
+E:\sonHal\Market\bin\Debug\TestableIO.System.IO.Abstractions.xml
+E:\sonHal\Market\bin\Debug\TestableIO.System.IO.Abstractions.Wrappers.xml
+E:\sonHal\Market\bin\Debug\Vonage.xml
+E:\sonHal\Market\bin\Debug\zxing.xml
+E:\sonHal\Market\bin\Debug\zxing.presentation.xml
+E:\sonHal\Market\bin\Debug\Interop.WMPLib.dll
+E:\sonHal\Market\bin\Debug\AxInterop.WMPLib.dll
+E:\sonHal\Market\obj\Debug\Market.csproj.AssemblyReference.cache
+E:\sonHal\Market\obj\Debug\Interop.WMPLib.dll
+E:\sonHal\Market\obj\Debug\AxInterop.WMPLib.dll
+E:\sonHal\Market\obj\Debug\Market.csproj.ResolveComReference.cache
+E:\sonHal\Market\obj\Debug\Market.AnaMenu.resources
+E:\sonHal\Market\obj\Debug\Market.ardinuoIade.resources
+E:\sonHal\Market\obj\Debug\Market.Deneme.resources
+E:\sonHal\Market\obj\Debug\Market.Gun.resources
+E:\sonHal\Market\obj\Debug\Market.GunSonuIade.resources
+E:\sonHal\Market\obj\Debug\Market.Iade.resources
+E:\sonHal\Market\obj\Debug\Market.SatOrIade.resources
+E:\sonHal\Market\obj\Debug\Market.Giris.resources
+E:\sonHal\Market\obj\Debug\Market.GunSonu.resources
+E:\sonHal\Market\obj\Debug\Market.KasiyerIslemleri.resources
+E:\sonHal\Market\obj\Debug\Market.Prim.resources
+E:\sonHal\Market\obj\Debug\Market.Properties.Resources.resources
+E:\sonHal\Market\obj\Debug\Market.Satis.resources
+E:\sonHal\Market\obj\Debug\Market.SatOrIadeGunSonu.resources
+E:\sonHal\Market\obj\Debug\Market.Sifre.resources
+E:\sonHal\Market\obj\Debug\Market.UrunIslemleri.resources
+E:\sonHal\Market\obj\Debug\Market.Video.resources
+E:\sonHal\Market\obj\Debug\Market.csproj.GenerateResource.cache
+E:\sonHal\Market\obj\Debug\Market.csproj.CoreCompileInputs.cache
+E:\sonHal\Market\obj\Debug\Market.csproj.Up2Date
+E:\sonHal\Market\obj\Debug\Market.exe
+E:\sonHal\Market\obj\Debug\Market.pdb
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Market.exe.config
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Market.exe
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Market.pdb
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\AForge.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\AForge.Video.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\ColorTranslations.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\EntityFramework.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Enums.NET.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Epoch.net.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Google.Protobuf.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\jose-jwt.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\MaterialSkin.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\StandardSocketsHttpHandler.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\System.Buffers.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\System.IO.Abstractions.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\System.Memory.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\System.Text.Json.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\System.ValueTuple.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\TestableIO.System.IO.Abstractions.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\TestableIO.System.IO.Abstractions.Wrappers.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Vonage.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Yoh.Text.Json.NamingPolicies.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\ZstdSharp.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\zxing.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\zxing.presentation.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\AForge.xml
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\AForge.Video.xml
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\EntityFramework.xml
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Enums.NET.pdb
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Enums.NET.xml
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Epoch.net.pdb
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Epoch.net.xml
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Google.Protobuf.pdb
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Google.Protobuf.xml
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\System.Buffers.xml
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\System.IO.Abstractions.xml
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\System.Memory.xml
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\System.Text.Json.xml
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\System.ValueTuple.xml
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\TestableIO.System.IO.Abstractions.xml
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\TestableIO.System.IO.Abstractions.Wrappers.xml
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Vonage.xml
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\zxing.xml
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\zxing.presentation.xml
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\Interop.WMPLib.dll
+C:\Users\ş\Desktop\sonHal\Market\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ş\Desktop\sonHal\Market\obj\Debug\Market.csproj.AssemblyReference.cache
+C:\Users\ş\Desktop\sonHal\Market\obj\Debug\Interop.WMPLib.dll
+C:\Users\ş\Desktop\sonHal\Market\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ş\Desktop\sonHal\Market\obj\Debug\Market.csproj.ResolveComReference.cache
+C:\Users\ş\Desktop\sonHal\Market\obj\Debug\Market.AnaMenu.resources
+C:\Users\ş\Desktop\sonHal\Market\obj\Debug\Market.ardinuoIade.resources
+C:\Users\ş\Desktop\sonHal\Market\obj\Debug\Market.Gun.resources
+C:\Users\ş\Desktop\sonHal\Market\obj\Debug\Market.Iade.resources
+C:\Users\ş\Desktop\sonHal\Market\obj\Debug\Market.SatOrIade.resources
+C:\Users\ş\Desktop\sonHal\Market\obj\Debug\Market.Giris.resources
+C:\Users\ş\Desktop\sonHal\Market\obj\Debug\Market.KasiyerIslemleri.resources
+C:\Users\ş\Desktop\sonHal\Market\obj\Debug\Market.Prim.resources
+C:\Users\ş\Desktop\sonHal\Market\obj\Debug\Market.Properties.Resources.resources
+C:\Users\ş\Desktop\sonHal\Market\obj\Debug\Market.Satis.resources
+C:\Users\ş\Desktop\sonHal\Market\obj\Debug\Market.Sifre.resources
+C:\Users\ş\Desktop\sonHal\Market\obj\Debug\Market.UrunIslemleri.resources
+C:\Users\ş\Desktop\sonHal\Market\obj\Debug\Market.csproj.GenerateResource.cache
+C:\Users\ş\Desktop\sonHal\Market\obj\Debug\Market.csproj.CoreCompileInputs.cache
+C:\Users\ş\Desktop\sonHal\Market\obj\Debug\Market.csproj.Up2Date
+C:\Users\ş\Desktop\sonHal\Market\obj\Debug\Market.exe
+C:\Users\ş\Desktop\sonHal\Market\obj\Debug\Market.pdb
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Market.exe.config
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Market.exe
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Market.pdb
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\AForge.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\AForge.Video.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\ColorTranslations.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\EntityFramework.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Enums.NET.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Epoch.net.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Google.Protobuf.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\jose-jwt.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\MaterialSkin.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\StandardSocketsHttpHandler.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\System.Buffers.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\System.IO.Abstractions.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\System.IO.Pipelines.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\System.Memory.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\System.Text.Json.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\System.ValueTuple.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\TestableIO.System.IO.Abstractions.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\TestableIO.System.IO.Abstractions.Wrappers.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Vonage.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Yoh.Text.Json.NamingPolicies.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\ZstdSharp.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\zxing.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\zxing.presentation.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\AForge.xml
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\AForge.Video.xml
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\EntityFramework.xml
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Enums.NET.pdb
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Enums.NET.xml
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Epoch.net.pdb
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Epoch.net.xml
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Google.Protobuf.pdb
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Google.Protobuf.xml
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\System.Buffers.xml
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\System.IO.Abstractions.xml
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\System.IO.Pipelines.xml
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\System.Memory.xml
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\System.Text.Json.xml
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\System.ValueTuple.xml
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\TestableIO.System.IO.Abstractions.xml
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\TestableIO.System.IO.Abstractions.Wrappers.xml
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Vonage.xml
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\zxing.xml
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\zxing.presentation.xml
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\Interop.WMPLib.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\obj\Debug\Market.csproj.AssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\obj\Debug\Interop.WMPLib.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\obj\Debug\Market.csproj.ResolveComReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\obj\Debug\Market.AnaMenu.resources
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\obj\Debug\Market.ardinuoIade.resources
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\obj\Debug\Market.Gun.resources
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\obj\Debug\Market.GunSonuIade.resources
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\obj\Debug\Market.Iade.resources
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\obj\Debug\Market.SatOrIade.resources
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\obj\Debug\Market.Giris.resources
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\obj\Debug\Market.GunSonu.resources
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\obj\Debug\Market.KasiyerIslemleri.resources
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\obj\Debug\Market.Prim.resources
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\obj\Debug\Market.Properties.Resources.resources
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\obj\Debug\Market.Satis.resources
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\obj\Debug\Market.Sifre.resources
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\obj\Debug\Market.UrunIslemleri.resources
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\obj\Debug\Market.Video.resources
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\obj\Debug\Market.csproj.GenerateResource.cache
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\obj\Debug\Market.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\obj\Debug\Market.csproj.CopyComplete
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\obj\Debug\Market.exe
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\obj\Debug\Market.pdb
+C:\Users\hasan\OneDrive\Masaüstü\sonHal\Market\obj\Debug\Market.Urun.resources
+C:\Users\ş\Desktop\sonHal\Market\obj\Debug\Market.Urun.resources
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Market.exe.config
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Market.exe
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Market.pdb
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\AForge.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\AForge.Video.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\ColorTranslations.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\EntityFramework.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Enums.NET.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Epoch.net.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Google.Protobuf.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\jose-jwt.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\MaterialSkin.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\StandardSocketsHttpHandler.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\System.Buffers.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\System.IO.Abstractions.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\System.Memory.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\System.Text.Json.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\System.ValueTuple.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\TestableIO.System.IO.Abstractions.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\TestableIO.System.IO.Abstractions.Wrappers.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Vonage.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Yoh.Text.Json.NamingPolicies.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\ZstdSharp.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\zxing.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\zxing.presentation.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\AForge.xml
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\AForge.Video.xml
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\EntityFramework.xml
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Enums.NET.pdb
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Enums.NET.xml
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Epoch.net.pdb
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Epoch.net.xml
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Google.Protobuf.pdb
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Google.Protobuf.xml
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\System.Buffers.xml
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\System.IO.Abstractions.xml
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\System.Memory.xml
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\System.Text.Json.xml
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\System.ValueTuple.xml
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\TestableIO.System.IO.Abstractions.xml
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\TestableIO.System.IO.Abstractions.Wrappers.xml
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Vonage.xml
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\zxing.xml
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\zxing.presentation.xml
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\Interop.WMPLib.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\obj\Debug\Market.csproj.AssemblyReference.cache
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\obj\Debug\Interop.WMPLib.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\obj\Debug\Market.csproj.ResolveComReference.cache
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\obj\Debug\Market.AnaMenu.resources
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\obj\Debug\Market.ardinuoIade.resources
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\obj\Debug\Market.KasiyerIslemleri.resources
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\obj\Debug\Market.Gun.resources
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\obj\Debug\Market.Iade.resources
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\obj\Debug\Market.SatOrIade.resources
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\obj\Debug\Market.Giris.resources
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\obj\Debug\Market.Prim.resources
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\obj\Debug\Market.Properties.Resources.resources
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\obj\Debug\Market.Satis.resources
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\obj\Debug\Market.Sifre.resources
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\obj\Debug\Market.Urun.resources
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\obj\Debug\Market.csproj.GenerateResource.cache
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\obj\Debug\Market.csproj.CoreCompileInputs.cache
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\obj\Debug\Market.csproj.Up2Date
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\obj\Debug\Market.exe
+C:\Users\Hasan Şamil Aydın\Desktop\1063_Hasan_Şamil_Aydın\sonHal\Market\obj\Debug\Market.pdb
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Market.exe.config
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Market.exe
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Market.pdb
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\AForge.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\AForge.Video.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\ColorTranslations.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\EntityFramework.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Enums.NET.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Epoch.net.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Google.Protobuf.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\jose-jwt.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\MaterialSkin.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\StandardSocketsHttpHandler.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\System.Buffers.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\System.IO.Abstractions.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\System.Memory.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\System.Text.Json.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\System.ValueTuple.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\TestableIO.System.IO.Abstractions.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\TestableIO.System.IO.Abstractions.Wrappers.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Vonage.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Yoh.Text.Json.NamingPolicies.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\ZstdSharp.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\zxing.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\zxing.presentation.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\AForge.xml
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\AForge.Video.xml
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\EntityFramework.xml
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Enums.NET.pdb
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Enums.NET.xml
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Epoch.net.pdb
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Epoch.net.xml
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Google.Protobuf.pdb
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Google.Protobuf.xml
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\System.Buffers.xml
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\System.IO.Abstractions.xml
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\System.Memory.xml
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\System.Text.Json.xml
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\System.ValueTuple.xml
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\TestableIO.System.IO.Abstractions.xml
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\TestableIO.System.IO.Abstractions.Wrappers.xml
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Vonage.xml
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\zxing.xml
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\zxing.presentation.xml
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\Interop.WMPLib.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\obj\Debug\Market.csproj.AssemblyReference.cache
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\obj\Debug\Interop.WMPLib.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\obj\Debug\Market.csproj.ResolveComReference.cache
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\obj\Debug\Market.AnaMenu.resources
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\obj\Debug\Market.ardinuoIade.resources
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\obj\Debug\Market.KasiyerIslemleri.resources
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\obj\Debug\Market.Gun.resources
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\obj\Debug\Market.Iade.resources
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\obj\Debug\Market.SatOrIade.resources
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\obj\Debug\Market.Giris.resources
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\obj\Debug\Market.Prim.resources
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\obj\Debug\Market.Properties.Resources.resources
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\obj\Debug\Market.Satis.resources
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\obj\Debug\Market.Sifre.resources
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\obj\Debug\Market.Urun.resources
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\obj\Debug\Market.csproj.GenerateResource.cache
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\obj\Debug\Market.csproj.CoreCompileInputs.cache
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\obj\Debug\Market.csproj.Up2Date
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\obj\Debug\Market.exe
+C:\Users\Hasan Şamil Aydın\Desktop\Market Bitti Laaaaaaannnnnnnnnn\Son Hal MAl Yok BİTTİİİ LAAAAAAN\Market\obj\Debug\Market.pdb

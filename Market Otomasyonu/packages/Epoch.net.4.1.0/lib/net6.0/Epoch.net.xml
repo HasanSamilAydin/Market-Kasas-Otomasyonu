@@ -1,0 +1,635 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Epoch.net</name>
+    </assembly>
+    <members>
+        <member name="T:Epoch.net.DateOnlyExtensions">
+            <summary>
+            Implements Epoch extentions on the <see cref="T:System.DateOnly"/> type
+            </summary>
+        </member>
+        <member name="M:Epoch.net.DateOnlyExtensions.ToEpochTime(System.DateOnly)">
+            <summary>
+            Transforms the given <see cref="T:System.DateOnly"/> structure into a <see cref="T:Epoch.net.EpochTime"/>
+            </summary>
+            <param name="date">The <see cref="T:System.DateOnly"/> structure to convert into the <see cref="T:Epoch.net.EpochTime"/></param>
+            <returns>
+            A new instance of <see cref="T:Epoch.net.EpochTime"/> representaiton of the given <see cref="T:System.DateOnly"/> structure
+            </returns>
+            <exception cref="T:Epoch.net.EpochTimeValueException">
+            If the <paramref name="date"/> exceeded the valid range of a Unix Epoch 
+            </exception>
+        </member>
+        <member name="M:Epoch.net.DateOnlyExtensions.ToEpochTime(System.DateOnly,System.TimeOnly,System.Boolean)">
+            <summary>
+            Transforms the given <see cref="T:System.DateOnly"/> structure into a <see cref="T:Epoch.net.EpochTime"/> with the given <see cref="T:System.TimeOnly"/> offset
+            </summary>
+            <param name="date">The <see cref="T:System.DateOnly"/> structure to convert into the <see cref="T:Epoch.net.EpochTime"/></param>
+            <param name="time">The <see cref="T:System.TimeOnly"/> structure used for the time ofdfset from midnight</param>
+            <param name="isUtcTime">Determines if the given <see cref="T:System.TimeOnly"/> is UTC or local time. TRUE => UTC, FALSE => Local time </param>
+            <remarks>
+            It is assumed that the <paramref name="time"/> is UTC time. Determined by the <paramref name="isUtcTime"/>
+            </remarks>
+            <returns>
+            A new instance of <see cref="T:Epoch.net.EpochTime"/> representaiton of the given <see cref="T:System.DateOnly"/> and <see cref="T:System.TimeOnly"/> structure
+            </returns>
+            <exception cref="T:Epoch.net.EpochTimeValueException">
+            If the <paramref name="date"/> exceeded the valid range of a Unix Epoch 
+            </exception>
+        </member>
+        <member name="T:Epoch.net.DateTimeExtensions">
+            <summary>
+            Implements utility methods on the <see cref="T:System.DateTime"/> structure
+            </summary>
+        </member>
+        <member name="M:Epoch.net.DateTimeExtensions.ToLongEpochTimestamp(System.DateTime)">
+            <summary>
+            Transforms the given <see cref="T:System.DateTime"/> into a LongEpochTimestamp
+            </summary>
+            <param name="dateTime">The <see cref="T:System.DateTime"/> structure to convert into an LongEpochTimestamp</param>
+            <returns>The number of milliseconds since 1970-01-01T00:00Z</returns>
+            <remarks>The LongEpochTimestamp is the number of milliseconds since 1970-01-01T00:00Z</remarks>
+        </member>
+        <member name="M:Epoch.net.DateTimeExtensions.ToEpochTimestamp(System.DateTime)">
+            <summary>
+            Transforms the given <see cref="T:System.DateTime"/> into the EpochTimestamp
+            </summary>
+            <param name="dateTime">The <see cref="T:System.DateTime"/> structure to convert into a EpochTimestamp</param>
+            <returns>The number of seconds since 1970-01-01T00:00Z</returns>
+            <exception cref="T:Epoch.net.EpochTimeValueException">
+            If the <see cref="T:System.DateTime"/> exceeded the valid range of a Unix Epoch 
+            </exception>
+            <remarks>The EpochTimestamp is the number of seconds since the 1970-01-01T00:00Z</remarks>
+        </member>
+        <member name="M:Epoch.net.DateTimeExtensions.ToEpochTime(System.DateTime)">
+            <summary>
+            Transforms the given <see cref="T:System.DateTime"/> into a <see cref="T:Epoch.net.EpochTime"/>
+            </summary>
+            <param name="dateTime">The <see cref="T:System.DateTime"/> structure to convert into a <see cref="T:Epoch.net.EpochTime"/></param>
+            <returns>A <see cref="T:Epoch.net.EpochTime"/> representation of the given <see cref="T:System.DateTime"/> structure</returns>
+            <exception cref="T:Epoch.net.EpochTimeValueException">
+            If the <see cref="T:System.DateTime"/> exceeded the valid range of a Unix Epoch
+            </exception>
+        </member>
+        <member name="M:Epoch.net.DateTimeExtensions.ToLongEpochTime(System.DateTime)">
+            <summary>
+            Transforms the given <see cref="T:System.DateTime"/> into a <see cref="T:Epoch.net.LongEpochTime"/>
+            </summary>
+            <param name="dateTime">The <see cref="T:System.DateTime"/> structure to convert into a <see cref="T:Epoch.net.LongEpochTime"/></param>
+            <returns>A <see cref="T:Epoch.net.LongEpochTime"/> representation of the given <see cref="T:System.DateTime"/></returns>
+        </member>
+        <member name="M:Epoch.net.DateTimeExtensions.IsValidEpochTime(System.DateTime)">
+            <summary>
+            Determines if the given <see cref="T:System.DateTime"/> is in a valid <see cref="T:Epoch.net.EpochTime"/> range
+            </summary>
+            <param name="dateTime">The <see cref="T:System.DateTime"/> structure to test</param>
+            <returns>True if the <see cref="T:System.DateTime"/> is in a valid <see cref="T:Epoch.net.EpochTime"/> range, False if not</returns>
+        </member>
+        <member name="T:Epoch.net.DefaultTimeProvider">
+            <summary>
+            Implemets the system default DateTimeProvider as defined in <seealso cref="T:Epoch.net.IDateTimeProvider"/>
+            </summary>
+        </member>
+        <member name="P:Epoch.net.DefaultTimeProvider.UtcNow">
+            <inheritdoc/>
+        </member>
+        <member name="T:Epoch.net.EpochTime">
+            <summary>
+            Implements a to the second precise unix timestamp
+            </summary>
+        </member>
+        <member name="P:Epoch.net.EpochTime.MAX">
+            <summary>
+            Provides a new instance of a <see cref="T:Epoch.net.EpochTime"/> with the maximal possible value
+            </summary>
+        </member>
+        <member name="P:Epoch.net.EpochTime.MIN">
+            <summary>
+            Provides a new instance of a <see cref="T:Epoch.net.EpochTime"/> with the minimal possible value
+            </summary>
+        </member>
+        <member name="F:Epoch.net.EpochTime.MIN_VALUE">
+            <summary>
+            The minimal raw epoch value
+            </summary>
+        </member>
+        <member name="F:Epoch.net.EpochTime.MAX_VALUE">
+            <summary>
+            The maximal raw epoch value
+            </summary>
+        </member>
+        <member name="F:Epoch.net.EpochTime.MAX_DATETIME">
+            <summary>
+            The maximal <see cref="P:Epoch.net.EpochTime.DateTime"/> value that a <see cref="T:Epoch.net.EpochTime"/> can take
+            </summary>
+        </member>
+        <member name="F:Epoch.net.EpochTime.MIN_DATETIME">
+            <summary>
+            The minimal <see cref="P:Epoch.net.EpochTime.DateTime"/> value that a <see cref="T:Epoch.net.EpochTime"/> can take
+            </summary>
+        </member>
+        <member name="P:Epoch.net.EpochTime.Default">
+            <summary>
+            The default value of <see cref="T:Epoch.net.LongEpochTime"/>
+            </summary>
+            <remarks>
+            Thursday, January 1, 1970 12:00:00 AM GMT
+            </remarks>
+        </member>
+        <member name="M:Epoch.net.EpochTime.#ctor(System.Int32)">
+            <summary>
+            Creates a new instance of <see cref="T:Epoch.net.EpochTime"/> with a given rawEpoch
+            </summary>
+            <param name="rawEpoch">The number of seconds from 1970-01-01T00:00:00</param>
+        </member>
+        <member name="M:Epoch.net.EpochTime.#ctor(System.DateTime)">
+            <summary>
+            Creates a new instance of <see cref="T:Epoch.net.EpochTime"/> with the given <see cref="P:Epoch.net.EpochTime.DateTime"/>
+            </summary>
+            <param name="dateTime">The <see cref="P:Epoch.net.EpochTime.DateTime"/> used to initialize the <see cref="T:Epoch.net.EpochTime"/></param>
+            <exception cref="T:System.ArgumentNullException">
+            If the passed <see cref="P:Epoch.net.EpochTime.DateTime"/> is outside of the valid Epoch range
+            </exception>
+            <remarks>
+               The given <see cref="P:Epoch.net.EpochTime.DateTime"/> is converted to UTC according to the environment settings
+            </remarks>
+        </member>
+        <member name="M:Epoch.net.EpochTime.#ctor(Epoch.net.EpochTime)">
+            <summary>
+            Creates a new instance of <see cref="T:Epoch.net.EpochTime"/> with the given <see cref="T:Epoch.net.EpochTime"/> instance as initialisation data
+            </summary>
+            <param name="epoch"><see cref="T:Epoch.net.EpochTime"/> used to initialize the instance</param>
+            <exception cref="T:System.ArgumentNullException">If the epoch instance is null</exception>
+            <remarks>
+            Is a simple copy constructor
+            </remarks>
+        </member>
+        <member name="M:Epoch.net.EpochTime.#ctor(System.TimeSpan)">
+            <summary>
+            Creates a new instance of <see cref="T:Epoch.net.EpochTime"/> with the given <see cref="P:Epoch.net.EpochTime.TimeSpan"/> as a offset from 1970-01-01T00:00Z
+            </summary>
+            <param name="timeSpan">The <see cref="P:Epoch.net.EpochTime.TimeSpan"/> representing the offset from 1970-01-01T00:00Z</param>
+            <exception cref="T:Epoch.net.EpochTimeValueException">
+            If the offset would put the <see cref="T:Epoch.net.EpochTime"/> outside of the valid Epoch range
+            </exception>
+        </member>
+        <member name="M:Epoch.net.EpochTime.SetTimeProvider(Epoch.net.IDateTimeProvider)">
+            <summary>
+            Injects a new global thread safe <see cref="P:Epoch.net.EpochTime.TimeProvider"/> instance to be used globally
+            </summary>
+            <param name="timeProvider">The new time provider instance</param>
+        </member>
+        <member name="M:Epoch.net.EpochTime.ResetTimeProvider">
+            <summary>
+            Resets the global time provider to the default system time provider 
+            </summary>
+        </member>
+        <member name="P:Epoch.net.EpochTime.Now">
+            <summary>
+            Gets the current UTC date and time as an <see cref="T:Epoch.net.EpochTime"/>
+            </summary>
+        </member>
+        <member name="P:Epoch.net.EpochTime.Epoch">
+            <summary>
+            Gets a <see cref="T:System.Int32"/> representation of the <see cref="T:Epoch.net.EpochTime"/> instance
+            </summary>
+        </member>
+        <member name="P:Epoch.net.EpochTime.DateTime">
+            <summary>
+            Returns a <see cref="P:Epoch.net.EpochTime.DateTime"/> representation of the <see cref="T:Epoch.net.EpochTime"/> instance
+            </summary>
+        </member>
+        <member name="P:Epoch.net.EpochTime.TimeSpan">
+            <summary>
+            Returns a <see cref="P:Epoch.net.EpochTime.TimeSpan"/> representation of the <see cref="T:Epoch.net.EpochTime"/> instance
+            </summary>
+        </member>
+        <member name="P:Epoch.net.EpochTime.DateOnly">
+            <summary>
+            Returns a <see cref="P:Epoch.net.EpochTime.DateOnly"/> representation of the <see cref="T:Epoch.net.EpochTime"/> instance
+            </summary>
+        </member>
+        <member name="P:Epoch.net.EpochTime.TimeOnly">
+            <summary>
+            Returns a <see cref="P:Epoch.net.EpochTime.TimeOnly"/> representation of the <see cref="T:Epoch.net.EpochTime"/> instance
+            </summary>
+        </member>
+        <member name="M:Epoch.net.EpochTime.Add(System.TimeSpan)">
+            <summary>
+            Applies the given <see cref="P:Epoch.net.EpochTime.TimeSpan"/> offset to the <see cref="T:Epoch.net.EpochTime"/> instance
+            </summary>
+            <param name="span">The <see cref="P:Epoch.net.EpochTime.TimeSpan"/> offset to apply</param>
+            <returns>The updated <see cref="T:Epoch.net.EpochTime"/> instance</returns>
+            <remarks>
+             The method returns an updated <see cref="T:Epoch.net.EpochTime"/> but also updates the calling instance
+            </remarks>
+        </member>
+        <member name="M:Epoch.net.EpochTime.op_Addition(Epoch.net.EpochTime,Epoch.net.EpochTime)">
+            <summary>
+            Implements the + operator between two <see cref="T:Epoch.net.EpochTime"/> instances
+            </summary>
+            <param name="operand1">The augend</param>
+            <param name="operand2">The addend</param>
+            <returns>The sum of the two <see cref="T:Epoch.net.EpochTime"/></returns>
+            <exception cref="T:Epoch.net.EpochTimeValueException">
+            If the result is not a valid <see cref="T:Epoch.net.EpochTime"/>
+            </exception>
+        </member>
+        <member name="M:Epoch.net.EpochTime.op_Subtraction(Epoch.net.EpochTime,Epoch.net.EpochTime)">
+            <summary>
+            Implements the - operator between two <see cref="T:Epoch.net.EpochTime"/> instances
+            </summary>
+            <param name="operand1">The minuend</param>
+            <param name="operand2">The subtrahend</param>
+            <returns>The Difference between the two <see cref="T:Epoch.net.EpochTime"/> instances</returns>
+            <exception cref="T:Epoch.net.EpochTimeValueException">
+            If the result is not a valid <see cref="T:Epoch.net.EpochTime"/></exception>
+        </member>
+        <member name="M:Epoch.net.EpochTime.Equals(System.Object)">
+            <inheritdoc/>
+        </member>
+        <member name="M:Epoch.net.EpochTime.GetHashCode">
+            <inheritdoc/>
+        </member>
+        <member name="M:Epoch.net.EpochTime.ToString">
+            <inheritdoc/>
+        </member>
+        <member name="T:Epoch.net.EpochTimeValueException">
+            <summary>
+            Denotes the error state of a <seealso cref="T:Epoch.net.EpochTime"/>
+            </summary>
+        </member>
+        <member name="M:Epoch.net.EpochTimeValueException.#ctor">
+            <summary>
+            Creates a new instance of the <see cref="T:Epoch.net.EpochTimeValueException"/>
+            </summary>
+        </member>
+        <member name="M:Epoch.net.EpochTimeValueException.#ctor(System.String)">
+            <summary>
+            Creates a new instance of the <see cref="T:Epoch.net.EpochTimeValueException"/> with the given error message
+            </summary>
+            <param name="message">The Error message to assigne to the new instance of the <see cref="T:Epoch.net.EpochTimeValueException"/></param>
+        </member>
+        <member name="M:Epoch.net.EpochTimeValueException.#ctor(System.DateTime)">
+            <summary>
+            Creates a new instance of the <see cref="T:Epoch.net.EpochTimeValueException"/> with a given <see cref="T:System.DateTime"/>
+            </summary>
+            <param name="value">The <see cref="T:System.DateTime"/> that is not in a valid Epoch range</param>
+            <remarks>
+            It is assumed that the provided <see cref="T:System.DateTime"/> is not in a valid Epoch range.
+            </remarks>
+        </member>
+        <member name="M:Epoch.net.EpochTimeValueException.#ctor(System.TimeSpan)">
+            <summary>
+            Creates a new instance of the <see cref="T:Epoch.net.EpochTimeValueException"/> with a given <see cref="T:System.TimeSpan"/>
+            </summary>
+            <param name="value">The <see cref="T:System.TimeSpan"/> that is not in a valid Epoch range</param>
+            <remarks>
+            It is assumed that the <see cref="T:System.TimeSpan"/> is not in a valid Epoch range
+            </remarks>
+        </member>
+        <member name="M:Epoch.net.EpochTimeValueException.#ctor(System.Int64)">
+            <summary>
+            Creates a new instance of the <see cref="T:Epoch.net.EpochTimeValueException"/> with a given <see cref="T:System.Int64"/> value
+            </summary>
+            <param name="value">The <see cref="T:System.Int64"/> that is not in a valid Epoch range</param>
+            <remarks>
+            It is assumed that the <see cref="T:System.Int64"/> value is not in a valid Epoch range
+            </remarks>
+        </member>
+        <member name="T:Epoch.net.IDateTimeProvider">
+            <summary>
+            Defines a date time provides as used by Epoch.net
+            </summary>
+        </member>
+        <member name="P:Epoch.net.IDateTimeProvider.UtcNow">
+            <summary>
+            Gets the current system UTC time
+            </summary>
+        </member>
+        <member name="T:Epoch.net.IntExtensions">
+            <summary>
+            Implements <see cref="T:System.Int32"/> based helper methods
+            </summary>
+        </member>
+        <member name="M:Epoch.net.IntExtensions.ToDateTime(System.Int32)">
+            <summary>
+            Transforms the given <see cref="T:System.Int32"/> into a <see cref="T:System.DateTime"/> structure
+            </summary>
+            <param name="epoch">The unix epoch</param>
+            <returns>A <see cref="T:System.DateTime"/> initialized to the given offset in seconds from 1970-01-01T00:00Z</returns>
+        </member>
+        <member name="M:Epoch.net.IntExtensions.ToTimeSpan(System.Int32)">
+            <summary>
+            Transforms the given <see cref="T:System.Int32"/> into a <see cref="T:System.TimeSpan"/> structure
+            </summary>
+            <param name="epoch">The unix epoch</param>
+            <returns>A <see cref="T:System.TimeSpan"/> representing the offset of 1970-01-01T00:00Z</returns>
+        </member>
+        <member name="M:Epoch.net.IntExtensions.ToEpochTime(System.Int32)">
+            <summary>
+            Transforms the given <see cref="T:System.Int32"/> into a <see cref="T:Epoch.net.EpochTime"/>
+            </summary>
+            <param name="epoch">The unix epoch</param>
+            <returns>A <see cref="T:Epoch.net.EpochTime"/> initialized with the given unix epoch</returns>
+        </member>
+        <member name="M:Epoch.net.IntExtensions.ToLongEpochTime(System.Int32)">
+            <summary>
+            Transforms the given <see cref="T:System.Int32"/> into a <see cref="T:Epoch.net.LongEpochTime"/>
+            </summary>
+            <param name="epoch">The unix epoch</param>
+            <returns>A <see cref="T:Epoch.net.LongEpochTime"/> initialized with the given unix epoch</returns>
+        </member>
+        <member name="M:Epoch.net.IntExtensions.ToLongEpochTimestamp(System.Int32)">
+            <summary>
+            Transforms the given seconds offset into a millisecond offset
+            </summary>
+            <param name="epoch">The unix epoch</param>
+            <returns>The milliseconds from 1970-01-01T00:00Z</returns>
+        </member>
+        <member name="T:Epoch.net.LongEpochTime">
+            <summary>
+            Implements a millisecond precise unix epoch
+            </summary>
+        </member>
+        <member name="P:Epoch.net.LongEpochTime.Default">
+            <summary>
+            The default value of <see cref="T:Epoch.net.LongEpochTime"/>
+            </summary>
+            <remarks>
+            Thursday, January 1, 1970 12:00:00 AM GMT
+            </remarks>
+        </member>
+        <member name="P:Epoch.net.LongEpochTime.DefaultDateTime">
+            <summary>
+            The default date time value of an <see cref="T:Epoch.net.LongEpochTime"/> 
+            </summary>
+            /// <remarks>
+            Thursday, January 1, 1970 12:00:00 AM GMT
+            </remarks>
+        </member>
+        <member name="F:Epoch.net.LongEpochTime.MAX_VALUE">
+            <summary>
+            The minimal possible <see cref="T:System.Int64"/> value of a <see cref="T:Epoch.net.LongEpochTime"/>
+            </summary>
+        </member>
+        <member name="F:Epoch.net.LongEpochTime.MIN_VALUE">
+            <summary>
+            The maximal possible <see cref="T:System.Int64"/> value of a <see cref="T:Epoch.net.LongEpochTime"/>
+            </summary>
+        </member>
+        <member name="P:Epoch.net.LongEpochTime.MIN">
+            <summary>
+            The minimal value of a <see cref="T:Epoch.net.LongEpochTime"/>
+            </summary>
+        </member>
+        <member name="P:Epoch.net.LongEpochTime.MAX">
+            <summary>
+            The maximal value of a <see cref="T:Epoch.net.LongEpochTime"/>
+            </summary>
+        </member>
+        <member name="M:Epoch.net.LongEpochTime.#ctor(System.DateTime)">
+            <summary>
+            Initializes a new instance of <see cref="T:Epoch.net.LongEpochTime"/>
+            </summary>
+            <param name="dateTime">The <see cref="P:Epoch.net.LongEpochTime.DateTime"/> from which to initialize the instance</param>
+        </member>
+        <member name="M:Epoch.net.LongEpochTime.#ctor(System.Int64)">
+            <summary>
+            Initializes a new instance of <see cref="T:Epoch.net.LongEpochTime"/>
+            </summary>
+            <param name="longEpochTimestamp">The number of milliseconds since 1970-01-01T00:00Z</param>
+        </member>
+        <member name="M:Epoch.net.LongEpochTime.#ctor(System.TimeSpan)">
+            <summary>
+            Initializes a new instance of <see cref="T:Epoch.net.LongEpochTime"/>
+            </summary>
+            <param name="timeSpan">The <see cref="P:Epoch.net.LongEpochTime.TimeSpan"/> offset from 1970-01-01T00:00Z</param>
+            <exception cref="T:Epoch.net.LongEpochTimeValueException">
+             If the <see cref="P:Epoch.net.LongEpochTime.TimeSpan"/> is not in a valid <see cref="T:Epoch.net.LongEpochTime"/> range
+            </exception>
+        </member>
+        <member name="M:Epoch.net.LongEpochTime.#ctor(Epoch.net.LongEpochTime)">
+            <summary>
+            Initializes a new instance of <see cref="T:Epoch.net.LongEpochTime"/>
+            </summary>
+            <param name="longEpochTime">The <see cref="T:Epoch.net.LongEpochTime"/> from which to take the initialization data</param>
+            <exception cref="T:System.ArgumentNullException">
+            If the given <see cref="T:Epoch.net.LongEpochTime"/> is null
+            </exception>
+        </member>
+        <member name="M:Epoch.net.LongEpochTime.#ctor(Epoch.net.EpochTime)">
+            <summary>
+            Initializes a new instance of <see cref="T:Epoch.net.LongEpochTime"/>
+            </summary>
+            <param name="epochTime">The <see cref="T:Epoch.net.EpochTime"/> from which to take the initialization data</param>
+            <exception cref="T:System.ArgumentNullException">
+             If the provided <see cref="T:Epoch.net.EpochTime"/> is null
+            </exception>
+        </member>
+        <member name="M:Epoch.net.LongEpochTime.SetTimeProvider(Epoch.net.IDateTimeProvider)">
+            <summary>
+            Injects a new global thread safe <see cref="T:Epoch.net.IDateTimeProvider"/> instance to be used globally
+            </summary>
+            <param name="timeProvider">The new time provider instance</param>
+        </member>
+        <member name="M:Epoch.net.LongEpochTime.ResetTimeProvider">
+            <summary>
+            Resets the global time provider to the default system time provider 
+            </summary>
+        </member>
+        <member name="P:Epoch.net.LongEpochTime.Now">
+            <summary>
+            Gets the current UTC date and time as an <see cref="T:Epoch.net.LongEpochTime"/>
+            </summary>
+        </member>
+        <member name="P:Epoch.net.LongEpochTime.Epoch">
+            <summary>
+            Gets a millisecond unix epoch representation of the <see cref="T:Epoch.net.LongEpochTime"/> instance
+            </summary>
+        </member>
+        <member name="P:Epoch.net.LongEpochTime.DateTime">
+            <summary>
+            Get a <see cref="P:Epoch.net.LongEpochTime.DateTime"/> representation of the <see cref="T:Epoch.net.LongEpochTime"/> instance
+            </summary>
+        </member>
+        <member name="P:Epoch.net.LongEpochTime.TimeSpan">
+            <summary>
+            Get a <see cref="P:Epoch.net.LongEpochTime.TimeSpan"/> representation of the <see cref="T:Epoch.net.LongEpochTime"/> instance
+            </summary>
+        </member>
+        <member name="M:Epoch.net.LongEpochTime.Add(System.TimeSpan)">
+            <summary>
+            Applies the given <see cref="P:Epoch.net.LongEpochTime.TimeSpan"/> offset to the <see cref="T:Epoch.net.LongEpochTime"/> instance
+            </summary>
+            <param name="timeSpan">The <see cref="P:Epoch.net.LongEpochTime.TimeSpan"/> offset to apply</param>
+            <returns>The updated <see cref="T:Epoch.net.LongEpochTime"/> instance</returns>
+            <remarks>
+             The method returns an updated <see cref="T:Epoch.net.LongEpochTime"/> but also updates the calling instance
+            </remarks>
+        </member>
+        <member name="M:Epoch.net.LongEpochTime.Add(System.TimeOnly)">
+            <summary>
+            Applies the given <see cref="T:System.TimeOnly"/> offset to the <see cref="T:Epoch.net.LongEpochTime"/> instance
+            </summary>
+            <param name="time"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Epoch.net.LongEpochTime.op_Addition(Epoch.net.LongEpochTime,Epoch.net.LongEpochTime)">
+            <summary>
+            Implements the + operator between two <see cref="T:Epoch.net.LongEpochTime"/> instances
+            </summary>
+            <param name="operator1">The augend</param>
+            <param name="operator2">The addend</param>
+            <returns>The sum of the two <see cref="T:Epoch.net.LongEpochTime"/></returns>
+        </member>
+        <member name="M:Epoch.net.LongEpochTime.op_Subtraction(Epoch.net.LongEpochTime,Epoch.net.LongEpochTime)">
+            <summary>
+            Implements the - operator between two <see cref="T:Epoch.net.LongEpochTime"/> instances
+            </summary>
+            <param name="operator1">The minuend</param>
+            <param name="operator2">The subtrahend</param>
+            <returns>The Difference between the two <see cref="T:Epoch.net.LongEpochTime"/> instances</returns>
+        </member>
+        <member name="M:Epoch.net.LongEpochTime.GetHashCode">
+            <inheritdoc/>
+        </member>
+        <member name="M:Epoch.net.LongEpochTime.Equals(System.Object)">
+            <inheritdoc/>
+        </member>
+        <member name="M:Epoch.net.LongEpochTime.ToString">
+            <inheritdoc/>
+        </member>
+        <member name="T:Epoch.net.LongEpochTimeValueException">
+            <summary>
+            Denotes the error state of a <see cref="T:Epoch.net.LongEpochTime"/>
+            </summary>
+        </member>
+        <member name="M:Epoch.net.LongEpochTimeValueException.#ctor(System.TimeSpan)">
+            <summary>
+            Creates a new instance of the <see cref="T:Epoch.net.LongEpochTimeValueException"/> with the given <see cref="T:System.TimeSpan"/>
+            </summary>
+            <param name="value">The <see cref="T:System.TimeSpan"/> that is not inside the valid <see cref="T:Epoch.net.LongEpochTime"/> range</param>
+            <remarks>
+            It is assumed that the <see cref="T:System.TimeSpan"/> is not in a valid <see cref="T:Epoch.net.LongEpochTime"/> value range
+            </remarks>
+        </member>
+        <member name="T:Epoch.net.LongExtensions">
+            <summary>
+            Implements helper method in the <see cref="T:System.Int64"/> value type
+            </summary>
+        </member>
+        <member name="M:Epoch.net.LongExtensions.IsValidEpochTimestamp(System.Int64)">
+            <summary>
+            Determines if the given LongEpochTimestamp is in the valid range for a <see cref="T:Epoch.net.EpochTime"/>
+            </summary>
+            <param name="epoch">The LongEpochTimestamp</param>
+            <returns>
+            True if the EpochTimestamp is in a valid <see cref="T:Epoch.net.EpochTime"/> range, False if not 
+            </returns>
+        </member>
+        <member name="M:Epoch.net.LongExtensions.ToDateTime(System.Int64)">
+            <summary>
+            Transforms the LongEpochTimestamp into a <see cref="T:System.DateTime"/>
+            </summary>
+            <param name="value">The LongEpochTimestamp</param>
+            <returns>A <see cref="T:System.DateTime"/> representation of the given LongEpochTimestamp</returns>
+        </member>
+        <member name="M:Epoch.net.LongExtensions.ToTimeSpan(System.Int64)">
+            <summary>
+            Transforms the LongEpochTimestamp into a <see cref="T:System.TimeSpan"/>
+            </summary>
+            <param name="value">The LongEpochTimestamp</param>
+            <returns>The <see cref="T:System.TimeSpan"/> representation of the LongEpochTimestamp</returns>
+        </member>
+        <member name="M:Epoch.net.LongExtensions.ToEpochTimestamp(System.Int64)">
+            <summary>
+            Transforms the LongEpochTimestamp into a EpochTimestamp
+            </summary>
+            <param name="value">The LongEpochTimestamp</param>
+            <returns>
+             The LongEpochTimestamp converted from milliseconds to seconds and rounded to the next second
+            </returns>
+            <exception cref="T:Epoch.net.EpochTimeValueException">
+            If the value is outside of a <see cref="T:Epoch.net.EpochTime"/> range
+            </exception>
+        </member>
+        <member name="M:Epoch.net.LongExtensions.ToLongEpochTime(System.Int64)">
+            <summary>
+            Transforms the LongEpochTimestamp into a <see cref="T:Epoch.net.LongEpochTime"/>
+            </summary>
+            <param name="value">The LongEpochTimestamp</param>
+            <returns>A <see cref="T:Epoch.net.LongEpochTime"/> initialized with the LongEpochTimestamp</returns>
+        </member>
+        <member name="T:Epoch.net.TimeOnlyExtensions">
+            <summary>
+            Implemens utility methods on the <see cref="T:System.TimeOnly"/> structure 
+            </summary>
+        </member>
+        <member name="M:Epoch.net.TimeOnlyExtensions.ToEpochTime(System.TimeOnly)">
+            <summary>
+            
+            </summary>
+            <param name="time"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Epoch.net.TimeSpanExtensions">
+            <summary>
+            Implements helper methods based on the <see cref="T:System.TimeSpan"/> structure
+            </summary>
+        </member>
+        <member name="M:Epoch.net.TimeSpanExtensions.ToEpochTime(System.TimeSpan)">
+            <summary>
+            Transforms the given <see cref="T:System.TimeSpan"/> into a <see cref="T:Epoch.net.EpochTime"/>
+            </summary>
+            <param name="timeSpan">The given <see cref="T:System.TimeSpan"/></param>
+            <returns>A new <see cref="T:Epoch.net.EpochTime"/> instance initialized with the given <see cref="T:System.TimeSpan"/></returns>
+        </member>
+        <member name="M:Epoch.net.TimeSpanExtensions.ToEpochTimestamp(System.TimeSpan)">
+            <summary>
+            Transforms the given <see cref="T:System.TimeSpan"/> into a EpochTimestamp
+            </summary>
+            <param name="timeSpan">The given <see cref="T:System.TimeSpan"/></param>
+            <returns>The number of seconds the given <see cref="T:System.TimeSpan"/> represents</returns>
+            <exception cref="T:Epoch.net.EpochTimeValueException">
+            If the given <see cref="T:System.TimeSpan"/> is not in a valid <see cref="T:Epoch.net.EpochTime"/> range
+            </exception>
+        </member>
+        <member name="M:Epoch.net.TimeSpanExtensions.ToLongEpochTime(System.TimeSpan)">
+            <summary>
+            Transforms the given <see cref="T:System.TimeSpan"/> into a <see cref="T:Epoch.net.LongEpochTime"/>
+            </summary>
+            <param name="timeSpan">The given <see cref="T:System.TimeSpan"/></param>
+            <returns>A <see cref="T:Epoch.net.LongEpochTime"/> representation of the given <see cref="T:System.TimeSpan"/></returns>
+        </member>
+        <member name="M:Epoch.net.TimeSpanExtensions.ToLongEpochTimestamp(System.TimeSpan)">
+            <summary>
+            Transforms the given <see cref="T:System.TimeSpan"/> into a LongEpochTimestamp
+            </summary>
+            <param name="timeSpan">The given <see cref="T:System.TimeSpan"/></param>
+            <returns>The milliseconds represented by the given <see cref="T:System.TimeSpan"/></returns>
+            <exception cref="T:Epoch.net.LongEpochTimeValueException">
+            If the number of milliseconds exceeds the <see cref="T:Epoch.net.LongEpochTime"/> range
+            </exception>
+        </member>
+        <member name="M:Epoch.net.TimeSpanExtensions.IsValidEpochTime(System.TimeSpan)">
+            <summary>
+            Determines if the given <see cref="T:System.TimeSpan"/> is in a valid <see cref="T:Epoch.net.EpochTime"/> range
+            </summary>
+            <param name="timeSpan">The given <see cref="T:System.TimeSpan"/></param>
+            <returns>
+            True if the given <see cref="T:System.TimeSpan"/> is in the valid range, False if not
+            </returns>
+        </member>
+        <member name="M:Epoch.net.TimeSpanExtensions.IsValidLongEpochTime(System.TimeSpan)">
+            <summary>
+            Determines if the given <see cref="T:System.TimeSpan"/> is in a valid <see cref="T:Epoch.net.LongEpochTime"/> range
+            </summary>
+            <param name="timeSpan">The given <see cref="T:System.TimeSpan"/></param>
+            <returns>
+            True if the given <see cref="T:System.TimeSpan"/> is in the valid range, False if not
+            </returns>
+        </member>
+    </members>
+</doc>
