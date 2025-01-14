@@ -33,12 +33,12 @@ namespace Market
             db.Reader("Şifre");           
             MailMessage mesajım = new MailMessage();
             SmtpClient istemci = new SmtpClient();
-            istemci.Credentials = new NetworkCredential("hasan.samil.2009@gmail.com", "Hasansio12345..");
+            istemci.Credentials = new NetworkCredential("Epostanız", "Sizin e posta Şifreniz");
             istemci.Port = 587;
             istemci.Host = "pro.turbo-smtp.com";
             istemci.EnableSsl = true;
             onay = random.Next(18622, 98743);
-            mesajım.From = new MailAddress("hasan.samil.2009@gmail.com");
+            mesajım.From = new MailAddress("Gidicek olan e posta adresi ");
             mesajım.To.Add(Hesap.mail);
             mesajım.Subject = "Şifre";
             mesajım.IsBodyHtml = true;
